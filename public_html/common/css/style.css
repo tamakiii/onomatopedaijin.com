@@ -1,0 +1,41 @@
+
+body {
+    font-family: "Georgia","Times New Roman","HiraMinPro-W6","ヒラギノ明朝 Pro W6","HiraMinPro-W6","ＭＳ Ｐ明朝","HiraMinPro-W3","細明朝体","ヒラギノ明朝 Pro W3","Osaka","serif";
+    color: #323232;
+    letter-spacing: 0.08em;
+}
+
+h1, 
+h4 {
+    font-family: "Georgia","Times New Roman","HiraMinPro-W6","ヒラギノ明朝 Pro W6","HiraMinPro-W6","ＭＳ Ｐ明朝","HiraMinPro-W3","細明朝体","ヒラギノ明朝 Pro W3","Osaka","serif";
+}
+
+#words {
+    font-family: "メイリオ", "ＭＳ Ｐゴシック", sans-serif; 
+}
+
+#words-slide-links {
+    padding: 0 32px 0 12px;
+    text-align: right;
+    font-weight: bold;
+}
+#words-slide-links a {
+    color: #3c809a;
+}
+
+#words-slide {
+    padding-bottom: 12px;
+}
+#words-slide h4 {
+    font-family: "Georgia","Times New Roman","HiraMinPro-W6","ヒラギノ明朝 Pro W6","HiraMinPro-W6","ＭＳ Ｐ明朝","HiraMinPro-W3","細明朝体","ヒラギノ明朝 Pro W3","Osaka","serif";
+    font-size: 2.3em;
+    padding: 20px 0 10px 0;
+    margin: 0;
+    color: #3c809a;
+}
+#words-slide pre {
+    font-family: "メイリオ", "ＭＳ Ｐゴシック", sans-serif; 
+    font-weight: normal;
+    font-size: 14px;
+}
+
