@@ -420,14 +420,16 @@ Hey,I'm just singing "ララ〜ララ"
 
 <div style="background-color: #ffdde5; border-top: solid #edd1d7 1px;">
     <div style="margin: 12px 0; padding: 12px 0; text-align: left;">
-        <div style="display: inline-block; width: 460px; margin: 0 20px;">
+        <div style="display: inline-block; margin: 0 20px;">
             <h4 style="margin: 0; padding: 0; color: #ed718e; font-size: 4.3em;">特典</h4>
             <div style="font-family: 'メイリオ', 'ＭＳ Ｐゴシック', sans-serif;">
-                <p style="padding: 0; margin: 0; color: #ed718e;">特典1. オノマトペ大臣のオールナイトニッポン</p>
-                <p style="padding: 0; margin: 0; color: #ed718e; ">特典2. IF I FEEL BETTER</p>
+                <p style="padding: 0; margin: 0; color: #ed718e;">特典1. IF I FEEL BETTER (featuring Phoenix)</p>
+                <p style="padding: 0; margin: 0; color: #ed718e;">特典2. Music Sounds Better with You (featuring Stardust)</p>
+                <p style="padding: 0; margin: 0; color: #ed718e; ">特典3. Lady (featuring Modjo)</p>
+                <p style="padding: 0; margin: 0; color: #ed718e;">特典4. オノマトペ大臣のオールナイトニッポン</p>
             </div>
             <div style="margin-top: 10px;">
-                <h5 style="margin: 0 0 10px 0; padding: 0; font-size: 0.7em; color: #fdb1be; width: 200px; text-align: center;">ダウンロードコード</h5>
+                <h5 style="margin: 0 0 10px 0; padding: 0; font-size: 0.7em; color: #fdb1be; width: 200px; text-align: center;">↓↓ダウンロードコード↓↓</h5>
                 <form action="/scripts/download.php" method="post">
                     <input type="text" value="" name="dlcode" style="width: 200px; font-size: 1.1em; padding: 4px 8px;">
                     <input type="hidden" value="machi-no-odori" name="name">
