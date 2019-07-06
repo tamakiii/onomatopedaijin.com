@@ -1,0 +1,23 @@
+{
+  "name": "onomatopedaijin.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamakiii/onomatopedaijin.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamakiii/onomatopedaijin.com/issues"
+  },
+  "homepage": "https://github.com/tamakiii/onomatopedaijin.com#readme"
+}
