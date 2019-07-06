@@ -1,8 +1,3 @@
-<?php
-
-$name = 'Onomatopedaijin';
-
-?>
 <!DOCTYPE html>
 <html lang="ja" xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -29,7 +24,7 @@ $name = 'Onomatopedaijin';
 </head>
 <body style="width: 100%; height: 800px; margin: 0; padding: 0; min-height: 800px;">
 <div style="height:100%; width:100%; background-image:url(/cdn/images/76600872.jpgx); background-size: 100%;">
-    <p style="color:#666; font-size: 10em; font-weight:bold; margin:0; padding:0; padding-top: 70px; line-height: 0.55em;"><?php echo $name; ?><br />.com</p>
+    <p style="color:#666; font-size: 10em; font-weight:bold; margin:0; padding:0; padding-top: 70px; line-height: 0.55em;">Onomatopedaijin<br />.com</p>
     <div style="margin: 45px 20px; display: inline-block; width: 250px;">
         <a href="http://twitter.com/#!/onomatopedaijin" style="color: #12C; font-size: 3em; text-decoration: none;">
             <img src="/cdn/images/general/080607_2337_01.JPG" alt="" style="width: 250px;">
