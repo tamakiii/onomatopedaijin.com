@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+.clear {
+    clear: both;
+}
+
+.body {
+    width: 850px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.article {
+    height: 1214px;
+    width: 851px;
+    background-image: url(/img/page/siawase/background.png);
+}
+
+.head {
+    position: relative;
+    top: 55px;
+    margin-bottom: 55px;
+}
+
+.line-a {
+    margin: 0 120px;
+}
+
+.line-a .left-side {
+    float: left;
+    width: 320px;
+}
+.line-a .right-side {
+    float: left;
+    width: 272px;
+}
+
+.line-b {
+    margin-top: 20px;
+}
+
+.line-c {
+    margin: 25px 120px 0 120px;
+}
+.line-c .left-side {
+    float: left;
+    width: 210px;
+}
+.line-c .right-side {
+    float: left;
+    width: 400px;
+    text-align: left;
+    padding-top: 5px;
+}
+.line-c .right-side .text {
+    width: 270px;
+    background-color: transparent;
+    font-weight: light;
+    font-size: 16px;
+    padding: 10px;
+    border: solid #bebebe 1px;
+    color: #81bd3f;
+}
+.line-c .right-side .submit {
+    background-image: url(/img/page/siawase/button_download.png);
+    background-position:  0px 0px;
+    background-repeat: no-repeat;
+    width: 126px;
+    height: 42px;
+    border: 0px;
+    margin-top: 14px;
+}
+
